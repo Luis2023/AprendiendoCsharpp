@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\bin\Debug\netcoreapp2.1\Aleatorio.deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\bin\Debug\netcoreapp2.1\Aleatorio.runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\bin\Debug\netcoreapp2.1\Aleatorio.runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\bin\Debug\netcoreapp2.1\Aleatorio.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\bin\Debug\netcoreapp2.1\Aleatorio.pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\obj\Debug\netcoreapp2.1\Aleatorio.csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\obj\Debug\netcoreapp2.1\Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\obj\Debug\netcoreapp2.1\Aleatorio.AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\obj\Debug\netcoreapp2.1\Aleatorio.AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\obj\Debug\netcoreapp2.1\Aleatorio.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\3.Aleatorio\Aleatorio\Aleatorio\obj\Debug\netcoreapp2.1\Aleatorio.pdb
