@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jose Luis Gonzalez\\OneDrive\\Escritorio\\Proyecto\\4.DetectarElTipoDeDato\\Detectar si un dato es entero\\Detectar si un dato es entero\\Detectar si un dato es entero.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jose Luis Gonzalez\\OneDrive\\Escritorio\\Proyecto\\4.DetectarElTipoDeDato\\Detectar si un dato es entero\\Detectar si un dato es entero\\Detectar si un dato es entero.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jose Luis Gonzalez\\OneDrive\\Escritorio\\Proyecto\\4.DetectarElTipoDeDato\\Detectar si un dato es entero\\Detectar si un dato es entero\\Detectar si un dato es entero.csproj",
+        "projectName": "Detectar si un dato es entero",
+        "projectPath": "C:\\Users\\Jose Luis Gonzalez\\OneDrive\\Escritorio\\Proyecto\\4.DetectarElTipoDeDato\\Detectar si un dato es entero\\Detectar si un dato es entero\\Detectar si un dato es entero.csproj",
+        "packagesPath": "C:\\Users\\Jose Luis Gonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jose Luis Gonzalez\\OneDrive\\Escritorio\\Proyecto\\4.DetectarElTipoDeDato\\Detectar si un dato es entero\\Detectar si un dato es entero\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jose Luis Gonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

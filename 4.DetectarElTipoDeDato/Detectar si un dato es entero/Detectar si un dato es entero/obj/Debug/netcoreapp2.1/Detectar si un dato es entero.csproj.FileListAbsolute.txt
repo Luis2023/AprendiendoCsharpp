@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\bin\Debug\netcoreapp2.1\Detectar si un dato es entero.deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\bin\Debug\netcoreapp2.1\Detectar si un dato es entero.runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\bin\Debug\netcoreapp2.1\Detectar si un dato es entero.runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\bin\Debug\netcoreapp2.1\Detectar si un dato es entero.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\bin\Debug\netcoreapp2.1\Detectar si un dato es entero.pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\obj\Debug\netcoreapp2.1\Detectar si un dato es entero.csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\obj\Debug\netcoreapp2.1\Detectar si un dato es entero.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\obj\Debug\netcoreapp2.1\Detectar si un dato es entero.AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\obj\Debug\netcoreapp2.1\Detectar si un dato es entero.AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\obj\Debug\netcoreapp2.1\Detectar si un dato es entero.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\4.DetectarElTipoDeDato\Detectar si un dato es entero\Detectar si un dato es entero\obj\Debug\netcoreapp2.1\Detectar si un dato es entero.pdb

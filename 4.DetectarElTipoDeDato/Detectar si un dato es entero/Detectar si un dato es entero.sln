@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detectar si un dato es entero", "Detectar si un dato es entero\Detectar si un dato es entero.csproj", "{AD9AB3B5-2C90-46CF-9975-02DBC07C404A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9AB3B5-2C90-46CF-9975-02DBC07C404A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9AB3B5-2C90-46CF-9975-02DBC07C404A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9AB3B5-2C90-46CF-9975-02DBC07C404A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9AB3B5-2C90-46CF-9975-02DBC07C404A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B98ED19-64AC-4869-9A4D-3A7D11547A3E}
+	EndGlobalSection
+EndGlobal
