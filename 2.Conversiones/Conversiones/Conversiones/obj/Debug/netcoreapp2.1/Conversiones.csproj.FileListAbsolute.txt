@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\bin\Debug\netcoreapp2.1\Conversiones.deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\bin\Debug\netcoreapp2.1\Conversiones.runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\bin\Debug\netcoreapp2.1\Conversiones.runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\bin\Debug\netcoreapp2.1\Conversiones.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\bin\Debug\netcoreapp2.1\Conversiones.pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\obj\Debug\netcoreapp2.1\Conversiones.csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\obj\Debug\netcoreapp2.1\Conversiones.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\obj\Debug\netcoreapp2.1\Conversiones.AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\obj\Debug\netcoreapp2.1\Conversiones.AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\obj\Debug\netcoreapp2.1\Conversiones.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\2.Conversiones\Conversiones\Conversiones\obj\Debug\netcoreapp2.1\Conversiones.pdb
