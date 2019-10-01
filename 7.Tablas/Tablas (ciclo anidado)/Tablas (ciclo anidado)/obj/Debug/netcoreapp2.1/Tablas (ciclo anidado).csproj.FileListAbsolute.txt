@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\bin\Debug\netcoreapp2.1\Tablas (ciclo anidado).deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\bin\Debug\netcoreapp2.1\Tablas (ciclo anidado).runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\bin\Debug\netcoreapp2.1\Tablas (ciclo anidado).runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\bin\Debug\netcoreapp2.1\Tablas (ciclo anidado).dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\bin\Debug\netcoreapp2.1\Tablas (ciclo anidado).pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\obj\Debug\netcoreapp2.1\Tablas (ciclo anidado).csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\obj\Debug\netcoreapp2.1\Tablas (ciclo anidado).csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\obj\Debug\netcoreapp2.1\Tablas (ciclo anidado).AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\obj\Debug\netcoreapp2.1\Tablas (ciclo anidado).AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\obj\Debug\netcoreapp2.1\Tablas (ciclo anidado).dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\7.Tablas\Tablas (ciclo anidado)\Tablas (ciclo anidado)\obj\Debug\netcoreapp2.1\Tablas (ciclo anidado).pdb
