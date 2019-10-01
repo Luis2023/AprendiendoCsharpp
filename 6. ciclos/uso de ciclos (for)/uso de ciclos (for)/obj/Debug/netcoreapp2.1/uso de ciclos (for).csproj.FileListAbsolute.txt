@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\bin\Debug\netcoreapp2.1\uso de ciclos (for).deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\bin\Debug\netcoreapp2.1\uso de ciclos (for).runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\bin\Debug\netcoreapp2.1\uso de ciclos (for).runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\bin\Debug\netcoreapp2.1\uso de ciclos (for).dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\bin\Debug\netcoreapp2.1\uso de ciclos (for).pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\obj\Debug\netcoreapp2.1\uso de ciclos (for).csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\obj\Debug\netcoreapp2.1\uso de ciclos (for).csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\obj\Debug\netcoreapp2.1\uso de ciclos (for).AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\obj\Debug\netcoreapp2.1\uso de ciclos (for).AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\obj\Debug\netcoreapp2.1\uso de ciclos (for).dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\6. ciclos\uso de ciclos (for)\uso de ciclos (for)\obj\Debug\netcoreapp2.1\uso de ciclos (for).pdb
