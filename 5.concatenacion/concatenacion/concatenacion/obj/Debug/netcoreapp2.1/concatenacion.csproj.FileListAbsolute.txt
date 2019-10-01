@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\bin\Debug\netcoreapp2.1\concatenacion.deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\bin\Debug\netcoreapp2.1\concatenacion.runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\bin\Debug\netcoreapp2.1\concatenacion.runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\bin\Debug\netcoreapp2.1\concatenacion.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\bin\Debug\netcoreapp2.1\concatenacion.pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\obj\Debug\netcoreapp2.1\concatenacion.csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\obj\Debug\netcoreapp2.1\concatenacion.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\obj\Debug\netcoreapp2.1\concatenacion.AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\obj\Debug\netcoreapp2.1\concatenacion.AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\obj\Debug\netcoreapp2.1\concatenacion.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\5.concatenacion\concatenacion\concatenacion\obj\Debug\netcoreapp2.1\concatenacion.pdb
