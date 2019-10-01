@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\bin\Debug\netcoreapp2.1\Comparacion.deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\bin\Debug\netcoreapp2.1\Comparacion.runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\bin\Debug\netcoreapp2.1\Comparacion.runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\bin\Debug\netcoreapp2.1\Comparacion.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\bin\Debug\netcoreapp2.1\Comparacion.pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\obj\Debug\netcoreapp2.1\Comparacion.csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\obj\Debug\netcoreapp2.1\Comparacion.csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\obj\Debug\netcoreapp2.1\Comparacion.AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\obj\Debug\netcoreapp2.1\Comparacion.AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\obj\Debug\netcoreapp2.1\Comparacion.dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\8.Comparacion\Comparacion\Comparacion\obj\Debug\netcoreapp2.1\Comparacion.pdb
