@@ -1,0 +1,11 @@
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\bin\Debug\netcoreapp2.1\Acumulado (ciclo infinito).deps.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\bin\Debug\netcoreapp2.1\Acumulado (ciclo infinito).runtimeconfig.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\bin\Debug\netcoreapp2.1\Acumulado (ciclo infinito).runtimeconfig.dev.json
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\bin\Debug\netcoreapp2.1\Acumulado (ciclo infinito).dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\bin\Debug\netcoreapp2.1\Acumulado (ciclo infinito).pdb
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\obj\Debug\netcoreapp2.1\Acumulado (ciclo infinito).csprojAssemblyReference.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\obj\Debug\netcoreapp2.1\Acumulado (ciclo infinito).csproj.CoreCompileInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\obj\Debug\netcoreapp2.1\Acumulado (ciclo infinito).AssemblyInfoInputs.cache
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\obj\Debug\netcoreapp2.1\Acumulado (ciclo infinito).AssemblyInfo.cs
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\obj\Debug\netcoreapp2.1\Acumulado (ciclo infinito).dll
+C:\Users\Jose Luis Gonzalez\OneDrive\Escritorio\Proyecto\9.acumulado\Acumulado (ciclo infinito)\Acumulado (ciclo infinito)\obj\Debug\netcoreapp2.1\Acumulado (ciclo infinito).pdb
